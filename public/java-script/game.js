@@ -140,10 +140,10 @@ const textNodes = [
         id: 4,
         text: [
             {
-                dialogue: `Neel: Namaste Nhu! Why did you call me so early on the morning?`
+                dialogue: `Tony: Namaste Nhu! Why did you call me so early on the morning?`
             },
             {
-                dialogue: `Nhuu: Namaste Neel dai! As you said last week we are getting ready to go to Chandragiri Hill.`
+                dialogue: `Bruce: Namaste Tony dai! As you said last week we are getting ready to go to Chandragiri Hill.`
             }
         ],
         option: [
@@ -175,7 +175,7 @@ const textNodes = [
         id: 5,
         text: [
             {
-                dialogue: `Neel: Ah finally reached on the meet point. But I am soo hungry.`,
+                dialogue: `Tony: Ah finally reached on the meet point. But I am soo hungry.`,
                 
             }
         ],
@@ -198,7 +198,7 @@ const textNodes = [
         id: 6,
         text: [
             {
-                dialogue: `Neel: Ah finally reached on the meet point. I hope they didn't left me behind`,
+                dialogue: `Tony: Ah finally reached on the meet point. I hope they didn't left me behind`,
                 
             }
         ],
@@ -251,7 +251,7 @@ const textNodes = [
         id: 8,
         text: [
             {
-                dialogue: `Neel: Ah! They are not here :(`
+                dialogue: `Tony: Ah! They are not here :(`
             }
         ],
         option: [
@@ -267,7 +267,7 @@ const textNodes = [
         id: 9,
         text: [
             {
-                dialogue: `Neel: Ah! They are not here too :(`
+                dialogue: `Tony: Ah! They are not here too :(`
             }
         ],
         option: [
@@ -283,7 +283,7 @@ const textNodes = [
         id: 10,
         text: [
             {
-                dialogue: `Neel: It's too crowdy here maybe I should call him`,
+                dialogue: `Tony: It's too crowdy here maybe I should call him`,
                 setState: { 
                     hunger: state.hunger, 
                     thirst: state.thirst, 
@@ -310,7 +310,7 @@ const textNodes = [
         id: 11,
         text: [
             {
-                dialogue: `Neel: Finally found you guys! Sorry I am late :)`
+                dialogue: `Tony: Finally found you guys! Sorry I am late :)`
             }
         ],
         option: [
@@ -332,13 +332,13 @@ const textNodes = [
         id: 12,
         text: [
             {
-                dialogue: `Neel: Hello Nhuu, where are you?`
+                dialogue: `Tony: Hello Bruce, where are you?`
             },
             {
-                dialogue: `Nhuu: We are inside the tea shop waiting for you.`
+                dialogue: `Bruce: We are inside the tea shop waiting for you.`
             },
             {
-                dialogue: `Neel: Oh alright! I am on my way. I had been searching you people in bus stop`
+                dialogue: `Tony: Oh alright! I am on my way. I had been searching you people in bus stop`
             }
         ],
         option: [
@@ -354,19 +354,19 @@ const textNodes = [
         id: 7,
         text: [
             {
-                dialogue: `Meeh: We have finally reached here.`
+                dialogue: `Nutella: We have finally reached here.`
             },
             {
-                dialogue: `Looh: Wow! I had not expected Chandragiri Hill to be that high.`
+                dialogue: `Steve: Wow! I had not expected Chandragiri Hill to be that high.`
             },
             {
-                dialogue: `Neel: Neither had I. Can we manage to hike up that high within our limited time huh?`
+                dialogue: `Tony: Neither had I. Can we manage to hike up that high within our limited time huh?`
             },
             {
-                dialogue: `Nhuu: I do think so. It was your idea to hike up there.`
+                dialogue: `Bruce: I do think so. It was your idea to hike up there.`
             },
             {
-                dialogue: `Meeh: Then maybe we should change our destination what do you think dai?`
+                dialogue: `Nutella: Then maybe we should change our destination what do you think dai?`
             }
         ],
         option: [
@@ -384,7 +384,7 @@ const textNodes = [
         id: 99,
         text: [
             {
-                dialogue: `Neel: I just searched for new destination in MapsApp. Let's go to`
+                dialogue: `Tony: I just searched for new destination in MapsApp. Let's go to`
             }
         ],
         option: [
