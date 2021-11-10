@@ -1,6 +1,6 @@
 {
   "name": "game-app",
-  "homepage": "https://nilaw2017.github.io/ myFirstWordGame",
+  "homepage": "https://nilaw2017.github.io/wordGame",
   "version": "0.1.0",
   "private": true,
   "type": "module",
