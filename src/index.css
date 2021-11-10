@@ -1,0 +1,74 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: Gotham Rounded;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #333;
+}
+
+.container {
+  width: 800px;
+  max-width: 80%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 2px;
+}
+
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.btn {
+  background-color: hsl(200, 100%, 50%);
+  border: 1px solid hsl(200, 100%, 30%);
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+  outline: none;
+  transition: 0.7s;
+}
+
+.btn:hover {
+  background-color: hsl(200, 100%, 10%);
+}
+
+.health {
+  margin: 10px 0 30px 0;
+}
+.health span {
+  margin-left: 10px;
+}
+.health span:first-child {
+  margin: 0;
+}
+#amount {
+  background-color: goldenrod;
+  padding: 10px;
+}
+#hunger {
+  background-color: greenyellow;
+  padding: 5px;
+}
+#thirst {
+  width: 50px;
+  background-color: skyblue;
+  padding: 5px;
+}
+#stamina {
+  background-color: tomato;
+  padding: 5px;
+}
