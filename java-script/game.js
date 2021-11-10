@@ -360,7 +360,7 @@ const textNodes = [
                 dialogue: `Looh: Wow! I had not expected Chandragiri Hill to be that high.`
             },
             {
-                dialogue: `Neel: Neither had I. Can we manage to hike up that high withing our limited time huh?`
+                dialogue: `Neel: Neither had I. Can we manage to hike up that high within our limited time huh?`
             },
             {
                 dialogue: `Nhuu: I do think so. It was your idea to hike up there.`
