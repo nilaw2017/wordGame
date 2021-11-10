@@ -83,7 +83,7 @@ const textNodes = [
         id: 1,
         text: [
             {
-                dialogue: `Welcome to our game KTMVenture`
+                dialogue: `Welcome to our game NepalVenture`
             }
         ],
         img: "https://instagram.fktm3-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/254437238_223078046518788_1577360234664688757_n.jpg?_nc_ht=instagram.fktm3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=OgSnabz8hsQAX95bgdH&edm=ABJHkxYAAAAA&ccb=7-4&oh=6ff8a0df2909570dbba8aaaa44e66a35&oe=61917377&_nc_sid=fa978c&ig_cache_key=MjcwMzIyMzMzMjA2NDM0MjU3Nw%3D%3D.2-ccb7-4",
@@ -140,10 +140,10 @@ const textNodes = [
         id: 4,
         text: [
             {
-                dialogue: `Tony: Namaste Nhu! Why did you call me so early on the morning?`
+                dialogue: `Nil: Namaste Bruce! Why did you call me so early on the morning?`
             },
             {
-                dialogue: `Bruce: Namaste Tony dai! As you said last week we are getting ready to go to Chandragiri Hill.`
+                dialogue: `Bruce: Namaste Nil dai! As you said last week we are getting ready to go to Chandragiri Hill.`
             }
         ],
         option: [
@@ -175,7 +175,7 @@ const textNodes = [
         id: 5,
         text: [
             {
-                dialogue: `Tony: Ah finally reached on the meet point. But I am soo hungry.`,
+                dialogue: `Nil: Ah finally reached on the meet point. But I am soo hungry.`,
                 
             }
         ],
@@ -198,7 +198,7 @@ const textNodes = [
         id: 6,
         text: [
             {
-                dialogue: `Tony: Ah finally reached on the meet point. I hope they didn't left me behind`,
+                dialogue: `Nil: Ah finally reached on the meet point. I hope they didn't left me behind`,
                 
             }
         ],
@@ -251,7 +251,7 @@ const textNodes = [
         id: 8,
         text: [
             {
-                dialogue: `Tony: Ah! They are not here :(`
+                dialogue: `Nil: Ah! They are not here :(`
             }
         ],
         option: [
@@ -267,7 +267,7 @@ const textNodes = [
         id: 9,
         text: [
             {
-                dialogue: `Tony: Ah! They are not here too :(`
+                dialogue: `Nil: Ah! They are not here too :(`
             }
         ],
         option: [
@@ -283,7 +283,7 @@ const textNodes = [
         id: 10,
         text: [
             {
-                dialogue: `Tony: It's too crowdy here maybe I should call him`,
+                dialogue: `Nil: It's too crowdy here maybe I should call him`,
                 setState: { 
                     hunger: state.hunger, 
                     thirst: state.thirst, 
@@ -310,7 +310,7 @@ const textNodes = [
         id: 11,
         text: [
             {
-                dialogue: `Tony: Finally found you guys! Sorry I am late :)`
+                dialogue: `Nil: Finally found you guys! Sorry I am late :)`
             }
         ],
         option: [
@@ -332,13 +332,13 @@ const textNodes = [
         id: 12,
         text: [
             {
-                dialogue: `Tony: Hello Bruce, where are you?`
+                dialogue: `Nil: Hello Bruce, where are you?`
             },
             {
                 dialogue: `Bruce: We are inside the tea shop waiting for you.`
             },
             {
-                dialogue: `Tony: Oh alright! I am on my way. I had been searching you people in bus stop`
+                dialogue: `Nil: Oh alright! I am on my way. I had been searching you people in bus stop`
             }
         ],
         option: [
@@ -360,7 +360,7 @@ const textNodes = [
                 dialogue: `Steve: Wow! I had not expected Chandragiri Hill to be that high.`
             },
             {
-                dialogue: `Tony: Neither had I. Can we manage to hike up that high within our limited time huh?`
+                dialogue: `Nil: Neither had I. Can we manage to hike up that high within our limited time huh?`
             },
             {
                 dialogue: `Bruce: I do think so. It was your idea to hike up there.`
@@ -384,7 +384,7 @@ const textNodes = [
         id: 99,
         text: [
             {
-                dialogue: `Tony: I just searched for new destination in MapsApp. Let's go to`
+                dialogue: `Nil: I just searched for new destination in MapsApp. Let's go to`
             }
         ],
         option: [
