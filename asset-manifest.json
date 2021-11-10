@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wordGame/static/css/main.6e3e7ee6.chunk.css",
+    "main.js": "/wordGame/static/js/main.a9f3053b.chunk.js",
+    "main.js.map": "/wordGame/static/js/main.a9f3053b.chunk.js.map",
+    "runtime-main.js": "/wordGame/static/js/runtime-main.3852c5b6.js",
+    "runtime-main.js.map": "/wordGame/static/js/runtime-main.3852c5b6.js.map",
+    "static/js/2.ce581db0.chunk.js": "/wordGame/static/js/2.ce581db0.chunk.js",
+    "static/js/2.ce581db0.chunk.js.map": "/wordGame/static/js/2.ce581db0.chunk.js.map",
+    "index.html": "/wordGame/index.html",
+    "static/css/main.6e3e7ee6.chunk.css.map": "/wordGame/static/css/main.6e3e7ee6.chunk.css.map",
+    "static/js/2.ce581db0.chunk.js.LICENSE.txt": "/wordGame/static/js/2.ce581db0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3852c5b6.js",
+    "static/js/2.ce581db0.chunk.js",
+    "static/css/main.6e3e7ee6.chunk.css",
+    "static/js/main.a9f3053b.chunk.js"
+  ]
+}
